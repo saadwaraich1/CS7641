@@ -1,4 +1,8 @@
-GITHUB REPO: https://github.com/saadwaraich1/CS7641/tree/master/Assignment-2
+RUN:  git clone git@github.com:saadwaraich1/CS7641.git
+OR
+GITHUB REPO: https://github.com/saadwaraich1/CS7641/tree/master
+
+From Assignment-2 folder do all following to get graphs
 
 Setup conda environment using "requirements.yml"
 
