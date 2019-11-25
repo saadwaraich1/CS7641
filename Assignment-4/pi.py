@@ -1,6 +1,8 @@
 # Author: Saad Waraich
 #GTID: 903459227
 
+# https://github.com/dennybritz/reinforcement-learning
+
 import gym
 import time
 import numpy as np
